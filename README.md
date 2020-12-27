@@ -4,10 +4,8 @@
 
 ## Recognized Developer
 
-![](https://github-readme-stats.vercel.app/api?username=pixelboot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=pixelboot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" height="55%" width="55%;"/>
 
-### <ins>Links</ins>
-  
 <a href="https://bootingpixels@gmail.com">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/email.png" />
   &nbsp
