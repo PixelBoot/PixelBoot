@@ -15,11 +15,11 @@
 </a>  <a href="https://www.reddit.com/user/PixelBoot">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/reddit.png" />
   &nbsp
-</a>  <a href="https://twitter.com/BootingPixel">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/twitter.png" />
-  &nbsp
 </a>  <a href="https://t.me/PixelBoot">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/telegram.png" />
+  &nbsp
+</a>  <a href="https://twitter.com/BootingPixel">
+    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/twitter.png" />
   &nbsp
 </a>  <a href="https://forum.xda-developers.com/member.php?u=8086838">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/xda.png" />
