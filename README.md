@@ -12,6 +12,9 @@
 </a>  <a href="https://pixelboot.github.io">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/website.png" />
   &nbsp
+</a>  <a href="https://gitlab.com/PixelBoot">
+    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/gitlab.png" />
+  &nbsp
 </a>  <a href="https://www.reddit.com/user/PixelBoot">
     <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/reddit.png" />
   &nbsp
