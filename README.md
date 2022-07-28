@@ -2,7 +2,7 @@
 
 # PixelBoot
 
-## Recognized Developer
+## AOSP Enthusiast
 
 <img src="https://github-readme-stats.vercel.app/api?username=pixelboot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" height="55%" width="55%;"/>
 
