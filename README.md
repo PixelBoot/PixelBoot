@@ -1,28 +1,15 @@
 ![](https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/PixelBoot.png)
 
-# PixelBoot
+## Stats
 
-## AOSP Enthusiast
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelBoot&show_icons=true&count_private=true&include_all_commits=true&title_color=FAF9F6&text_color=FAF9F6&icon_color=FAF9F6&bg_color=18191A&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pixelboot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" height="55%" width="55%;"/>
 
-<a href="https://bootingpixels@gmail.com">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/email.png" />
-  &nbsp
-</a>  <a href="https://pixelboot.github.io">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/website.png" />
-  &nbsp
-</a>  <a href="https://gitlab.com/PixelBoot">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/gitlab.png" />
-  &nbsp
-</a>  <a href="https://www.reddit.com/user/PixelBoot">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/reddit.png" />
-  &nbsp
-</a>  <a href="https://t.me/PixelBoot">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/telegram.png" />
-  &nbsp
-</a>  <a href="https://twitter.com/BootingPixel">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/twitter.png" />
-  &nbsp
-</a>  <a href="https://forum.xda-developers.com/member.php?u=8086838">
-    <img src="https://raw.githubusercontent.com/PixelBoot/PixelBoot/master/images/xda.png" />
+## Links
+
+[![Website](https://img.shields.io/badge/Website-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=gray)](https://pixelboot.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=gray)](bootingpixels@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=gray)](https://discordapp.com/users/297631183565488129)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=gray)](https://t.me/PixelBoot)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white&color=gray)](https://x.com/BootingPixel)
+[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white&color=gray)](https://forum.xda-developers.com/member.php?u=8086838)
