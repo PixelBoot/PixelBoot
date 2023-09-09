@@ -8,7 +8,6 @@
 ## Links
 
 [![Website](https://img.shields.io/badge/Website-3DDC84?style=for-the-badge&logo=android&logoColor=white&color=gray)](https://pixelboot.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=gray)](mailto:bootingpixels@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=gray)](https://discordapp.com/users/297631183565488129)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=gray)](https://t.me/PixelBoot)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white&color=gray)](https://x.com/BootingPixel)
